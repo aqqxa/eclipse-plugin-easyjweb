@@ -1,3 +1,3 @@
 Update Site:
 
-    https://github.com/aqqxa/easyjweb-plugin-eclipse/tree/master/updates
+    https://raw.githubusercontent.com/aqqxa/easyjweb-plugin-eclipse/master/updates
